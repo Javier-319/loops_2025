@@ -11,6 +11,8 @@ for fruit in fruits:
     print(fruit)
 # i just worked with loops
 
+#Moon KNight is the best character
+
 # Given a list of school subjects:
 subjects = ["Math", "Science", "History", "Art"]
 for subject in subjects:
